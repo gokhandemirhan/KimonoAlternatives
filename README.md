@@ -3,6 +3,7 @@ Alternative sites to Kimono Labs after they announced to be shut down on 2/26/20
 
 ### List of providers
 <ul>
+<li>https://portia.scrapinghub.com/</li>
 <li>https://import.io</li>
 <li>https://www.parsehub.com/</li>
 <li>https://scrape.it/</li>
