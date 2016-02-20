@@ -1,8 +1,10 @@
 # KimonoAlternatives
-Alternative sites to Kimono Labs after they announced to be shut down on 2/26/2016.
+Alternative sites to Kimono Labs after they announced to be shut down on 2/29/2016.
 
 ### List of providers
 <ul>
+<li>https://apifier.com/</li>
+<li>https://portia.scrapinghub.com/</li>
 <li>https://import.io</li>
 <li>https://www.parsehub.com/</li>
 <li>https://scrape.it/</li>
